@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Servlet">
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/index.html</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/f.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/WEB-INF/web.xml</file>
+        </group>
+        <group name="a">
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/index.html</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/f.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/WEB-INF/web.xml</file>
+        </group>
+        <group>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/register.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/login.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/Controller/MakeQuiz.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/Controller/loginController.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/header.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/Controller/TakeQuizController.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/TakeQuiz.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/MakeQuiz.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/web/ManagerQuiz.jsp</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/Controller/ManageQuizController.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/Models/ThreadTime.java</file>
+            <file>file:/C:/Users/Asus/Documents/NetBeansProjects/abc/src/java/Controller/NewServlet.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,71 @@
+body{
+    height: 100%;
+    background-image: url("images/bg.jpg");
+    text-align: center;
+    color: #2A577E;
+    font-family: sans-serif;
+}
+.form{
+    width: 40%;
+    margin: 10% auto; 
+    background: #fff;
+}
+.login{
+    margin: 5% auto;
+    text-align: center;
+    padding: 0px 0px 5% 0px;
+} 
+.loginhead{
+    text-align: left;
+    color: #007bff;
+    font-weight: 500;
+}
+.bodyTop{
+    background-image: url("images/menu_bg.gif");
+    background-repeat: no-repeat;
+    background-size: 95%;
+    padding: 1px;;
+    background-position: center;
+}
+.top{
+    background-image: url("images/top_box.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.form{
+    width: 40%;
+    margin: 10% auto; 
+    background: #fff;
+}
+.login{
+    margin: 5% auto;
+    text-align: center;
+    padding: 0px 0px 5% 0px;
+}
+.body{
+    margin-top: 10px;
+}
+.all{
+    padding: 10px 10% 0px 10%;
+}
+.content{ 
+    margin-bottom: 20px;
+} 
+.answer{
+    margin: 5px 5px 10px 50px ;
+    text-align: left;
+    padding: 0px 0px 0px 10%;
+}
+.date{
+    float: right;
+}
+.form{
+    width: 40%;
+    margin: 10% auto;
+    background: #fff;
+}
+.takequiz{
+    margin: 5% auto;
+    text-align: center;
+    padding: 0px 0px 5% 0px;
+}
